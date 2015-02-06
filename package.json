@@ -21,6 +21,10 @@
     "percentage",
     "bytes"
   ],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/reklis/numeral-cli.git"
+  },
   "author": "Steven Fusco",
   "license": "MIT"
 }
