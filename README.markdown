@@ -1,6 +1,10 @@
-# numeral cli
+# numeral-cli
 
 command line interface to the awesome numeral.js
+
+### installation
+
+    npm i -g numeral-cli
 
 
 ### usage
