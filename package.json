@@ -1,6 +1,6 @@
 {
   "name": "numeral-cli",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "command line interface for numeral.js",
   "main": "index.js",
   "dependencies": {
